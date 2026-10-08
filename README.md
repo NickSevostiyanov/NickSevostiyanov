@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi! I'm Nick
 
-<!--
-**NickSevostiyanov/NickSevostiyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02IDMuNXYxN2ExIDEgMCAwIDAgMS41Ljg2bDE0LTguNWExIDEgMCAwIDAgMC0xLjcybC0xNC04LjVBMSAxIDAgMCAwIDYgMy41eiIvPjwvc3ZnPg%3D%3D) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-C2410C?style=for-the-badge&logo=linux&logoColor=white)
 
-Here are some ideas to get you started:
+I'm a developer in Vancouver, BC, and I like building things that hold up in the real world, in code and by hand. I mostly write Python and JavaScript, and lately that's meant AI agents that drive real browsers, plus the testing that proves they actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also run **[Ariadne Leather](https://ariadneleather.ca)**, a one-person shop where I hand-make leather goods like belts, wallets and knife sheaths. I taught myself the craft at 14, and today I do all of it: cutting and stitching on an industrial machine, 3D-printing my own jigs and templates, and designing and running the website myself.
+
+Most of my public repos are small tools I built because I wanted them.
+
+I finished BCIT's Computer Information Technology diploma in 2026. **If something here lines up with what you're building, email me. I'm open to roles, collaborations and interesting problems.**
+
+Find me on:&nbsp; [![Ariadne Leather](https://img.shields.io/badge/Ariadne_Leather-7A4A2A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://ariadneleather.ca) [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nicksevostiyanov.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2NCAyLjA2NCAwIDEgMSAwLTQuMTI4IDIuMDY0IDIuMDY0IDAgMCAxIDAgNC4xMjh6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/nick-sevostiyanov) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick.sevostiyanov@gmail.com)
